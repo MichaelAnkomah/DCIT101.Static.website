@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ankomah Webpage</title>
+</head>
+<body>
+<h1 style="text-align:center" >LUXO EMPORIUM</h1>
+<h4 style="text-align:center" >The Affordable Inn</h4>
+<p>Luxo means Luxury in portuguese, Luxury means great comfort amongst expensive things, something often rare.Emporium is a large retail store, selling a wide variety of goods</p>
+<p>Luxo Emporium was established in the year 2020 by THE ANKOMAH's, it's all quality when it comes to products manufactured by them, below are some products patronized by LUXO EMPORIUM.   </p>
+<h2>Sneaker brands</h2>
+<style>
+* {
+	color: brown;
+}
+ * {
+	font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style>
+<ul>
+<li> Adidas</li>
+<li>Nike</li>
+<li>New Balance</li>
+<li>Converse</li>
+<li>Vans</li>
+<li>Puma</li>
+<li>Reebok</li>
+<li>Jordan</li>
+<li>Under Armour</li>
+<li>Brooks</li>
+<li>Fila</li>
+<li>Skechers</li>
+</ul>
+<img src="adidas.jpg"  width="104" height="100" >
+<img src="nike.jpg" width="104" height="100">
+<img src="new balance.jpg" width="104" height="100" >
+<img src="converse.jpg" width="104" height="100" >
+<img src="vans.jpg" width="104" height="100" >
+<img src="puma.jpg" width="104" height="100" >
+<img src="reebok.jpg" width="104" height="100" >
+<img src="jordan.jpg" width="104" height="100" >
+<img src="under armour.jpg" width="104" height="100" >
+<img src="brooks.jpg" width="104" height="100" >
+<img src="fila.jpg" width="104" height="100" >
+<img src="skechers.jpg" width="104" height="100" >
+</body>
+</html>
